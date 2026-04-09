@@ -1,7 +1,0 @@
-{
-  "mappings": [
-    "/content/uedemo/:/",
-    "/content/uedemo/metadata:/metadata.json",
-    "/content/uedemo/configuration:/.helix/config.json"
-  ]
-}
